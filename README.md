@@ -31,8 +31,24 @@
  
 
 
-You can also:
-  - Import and save files from GitHub, Dropbox, Google Drive and One Drive
-  - Drag and drop markdown and HTML files into Dillinger
-  - Export documents as Markdown, HTML and PDF
+# Course Objectives:
+
+a. Define technology management and assessment
+
+b. List the benefits of new technology that contribute to the overseas market.
+
+c. Define International Technology Management
+
+d. Analyze and display an understanding of the present situation for international business/industry and what the future might hold.
+
+e. Analyze and apply theoretical and methodological knowledge on industrial management in an international perspective
+
+f. Synthesize and state the importance of international-based industry and U.S based corporations in the international marketplace.
+
+g. Identify and state the problems of a manager in an international environment and be able to demonstrate how to overcome such problems.
+
+h. Demonstrate the student’s analytical, intellectual, and evaluation skills that can be used individually as well as a team.
+
+    The course met all my expectation we were able to understand the benefits of technology management; we also learn the steps that multinational as to do to take their business overseas, by discussing in a virtual chat we were able to analyze business situations and comment on each other work.
+
 

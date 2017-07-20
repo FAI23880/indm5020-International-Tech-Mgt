@@ -18,7 +18,7 @@
 
 # Course Activities
 
-  - Assignment One - Professional Profile [Download]()
+  - Assignment One - Professional Profile [Download](https://github.com/FAI23880/indm5020-International-Tech-Mgt/raw/master/Assigment%20one.docx)
   - Assignment 2 - Technology Management [Download](https://github.com/FAI23880/indm5020-International-Tech-Mgt/raw/master/assigment%20%232.docx)
   - Article Selection- Unit One [Download](https://github.com/FAI23880/indm5020-International-Tech-Mgt/raw/master/Article1.docx)
   - Article Selection 2 Selection & Review - Unit Two [Download](https://github.com/FAI23880/indm5020-International-Tech-Mgt/raw/master/Journal%20Review%202%20.docx)
